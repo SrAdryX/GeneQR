@@ -1,0 +1,2 @@
+Esto esta vacio, es para poder subir la carpeta img que es necesaria por default
+This is empty, it is to be able to upload the img folder that is necessary by default
